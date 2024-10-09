@@ -1,0 +1,1 @@
+WordPress soporta principalmente MySQL y MariaDB como sistemas gestores de bases de datos. Ambos son opciones populares para almacenar los datos generados y utilizados por WordPress.

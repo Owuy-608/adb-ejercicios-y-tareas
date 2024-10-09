@@ -1,0 +1,3 @@
+La escalabilidad vertical se refiere a mejorar el rendimiento de un sistema aumentando la capacidad del hardware, por ejemplo, añadiendo más memoria, CPU o almacenamiento a un único servidor. Por otro lado, la escalabilidad horizontal implica agregar más servidores al sistema para distribuir la carga de trabajo, lo que es más adecuado cuando se requiere gestionar grandes volúmenes de datos o muchas solicitudes simultáneas.
+
+Los sistemas gestores de bases de datos (SGBD) que permiten un mejor escalado horizontal son generalmente los NoSQL como MongoDB, Cassandra y Redis, aunque algunos relacionales como PostgreSQL y MySQL también han implementado opciones de replicación y particionamiento para mejorar la escalabilidad horizontal.

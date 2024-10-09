@@ -1,0 +1,1 @@
+Odoo soporta varios sistemas gestores de bases de datos, siendo PostgreSQL el más utilizado y recomendado por defecto.
